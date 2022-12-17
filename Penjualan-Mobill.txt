@@ -1,6 +1,6 @@
 Penjualan Mobil
 - Daihatsu
-- Toyota
+- Lexus
 - Hyundai
 - Suzuki
 - Mitsubishi
